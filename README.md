@@ -1,51 +1,31 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+Título do Projeto Alimentares 
+📒 Descrição
+Este projeto explora o uso de IAs Generativas para criar um plano alimentar saudável, personalizado para diferentes necessidades dietéticas.
 
-## 🚀 Introdução
+🤖 Tecnologias Utilizadas
+ChatGPT para gerar recomendações de dieta personalizadas
 
-> Woooow! Look at this 👀
+DALL-E para criar imagens de pratos saudáveis
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Canva para criar um layout visual atraente para o plano alimentar
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+🧐 Processo de Criação
+Ideação: Decidi focar em criar planos alimentares para diferentes objetivos, como perda de peso, ganho de massa muscular e manutenção da saúde.
 
-### Objetivos
+Geração de Conteúdo: Usei o ChatGPT para gerar descrições detalhadas e recomendações de refeições para cada plano alimentar.
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+Criação Visual: Utilizei o DALL-E para gerar imagens de pratos saudáveis que correspondem às recomendações de dieta.
 
-### Template
+Montagem do Plano: Organizei todo o conteúdo e imagens no Canva para criar um documento visualmente atraente e fácil de entender.
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+🚀 Resultados
+Criei três planos alimentares distintos, cada um personalizado para diferentes necessidades:
 
-## 📒 Descrição
-Breve descrição do seu projeto
+Plano de Perda de Peso: Inclui refeições com baixo teor calórico e alto teor de fibras.
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Plano de Ganho de Massa Muscular: Focado em refeições ricas em proteínas e calorias.
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Plano de Manutenção da Saúde: Um equilíbrio de nutrientes para um estilo de vida saudável.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+💭 Reflexão
+Foi um desafio interessante criar planos alimentares usando IA. Descobri que as IAs Generativas têm um grande potencial para ajudar na criação de conteúdos personalizados e visualmente atraentes. Este projeto me fez perceber o quão útil a tecnologia pode ser na nutrição e no bem-estar.
